@@ -1,0 +1,52 @@
+.left-side{
+    float:left;
+    width:30%;
+    background-color: #e63946;
+    height:900px;
+}
+.center{
+    text-align:center;
+}
+
+#profile-photo{
+    width:13em;
+    border-radius: 125px;
+    margin-top:10px;
+}
+
+.left-side ul ul{
+    list-style-type: square;
+}
+
+.list-ext{
+    list-style-type: none;
+}
+
+h1, .left-titles {
+    color:#a8dadc;
+}
+
+h2, .little-title{
+    color:#1d3557;
+    font-weight:bold;
+}
+
+.content{
+    float:right;
+    width:70%;
+    background-color:#f1faee;
+    height:900px;
+
+}
+
+.right-titles{
+    color:#e63946;
+}
+
+h4, .content li{
+    color:#457b9d;
+}
+
+p{
+    color:black;
+}
